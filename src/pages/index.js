@@ -394,7 +394,8 @@ export default function Home() {
         </div>
       </main>
       <footer className="mt-20 text-center px-6 h-20 text-sm bg-white leading-6 text-gray-600 border-t border-gray-100 pt-7">
-        &copy; {new Date().getFullYear()} Quantox Academy. All rights reserved.
+        &copy; {new Date().getFullYear()} Ilija Radivojevic. All rights
+        reserved.
       </footer>
     </>
   );
