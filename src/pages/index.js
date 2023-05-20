@@ -303,7 +303,7 @@ export default function Home() {
               </div>
             </div>
             <h2 className="text-[32px] leading-9 font-medium text-gray-900 mt-5 tracking-tighter">
-              &euro; 1,692
+              1,692
             </h2>
             <div className="mt-3 text-sm leading-6 text-gray-500 font-medium">
               Students registered
