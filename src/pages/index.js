@@ -169,9 +169,10 @@ export default function Home() {
               <span className="font-medium text-slate-100"> Ilija</span>
             </h1>
             <p className="mt-5 text-slate-300 leading-7 max-w-[700px]">
-              This screen provides a summary of the online learning platform's
-              sales, subscribers, top selling courses, and recent transactions
-              for the admin's quick review and analysis.
+              This screen provides a summary of the online learning
+              platform&apos;s sales, subscribers, top selling courses, and
+              recent transactions for the admin&apos;s quick review and
+              analysis.
             </p>
           </div>
         </div>
@@ -394,7 +395,8 @@ export default function Home() {
         </div>
       </main>
       <footer className="mt-20 text-center px-6 h-20 text-sm bg-white leading-6 text-gray-600 border-t border-gray-100 pt-7">
-        &copy; {new Date().getFullYear()} Quantox Academy. All rights reserved.
+        &copy; {new Date().getFullYear()} Ilija Radivojevic. All rights
+        reserved.
       </footer>
     </>
   );
